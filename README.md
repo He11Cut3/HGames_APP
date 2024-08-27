@@ -1,6 +1,8 @@
 # HGames_APP
 
-![Static Badge](https://img.shields.io/badge/Framework-WPF_(.NET_6.0)-blue?logo=dotnet) ![Static Badge](https://img.shields.io/badge/Language-C%23-blue?logo=csharp)
+<a href="https://ibb.co/qnVs3nW"><img src="https://i.ibb.co/z5DRT57/321.png" alt="321" border="0"></a><br /><br />
+
+![Static Badge](https://img.shields.io/badge/Framework-WPF_(Net_FrameWork_4.8)-purple?logo=dotnet) ![Static Badge](https://img.shields.io/badge/Language-C%23-purple?logo=csharp) ![Static Badge](https://img.shields.io/badge/DataBase-MSSQL-purple?logo=microsoftsqlserver)
 
 ## About
 
